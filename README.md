@@ -1,4 +1,4 @@
-# Glottography dataset derived from Walker and Ribeiro n.d. "Bayesian Phylogeography of the {{Arawak}} Expansion in Lowland {{South America}}"
+# Glottography dataset derived from Walker and Ribeiro 2011 "Bayesian Phylogeography of the Arawak Expansion in Lowland South America"
 
 [![CLDF validation](https://github.com/Glottography/walker2011bayesian/workflows/CLDF-validation/badge.svg)](https://github.com/Glottography/walker2011bayesian/actions?query=workflow%3ACLDF-validation)
 
@@ -6,7 +6,7 @@
 
 If you use these data please cite
 - the original source
-  > Walker, Robert S. & Lincoln A. Ribeiro. n.d. Bayesian Phylogeography of the {{Arawak}} Expansion in Lowland {{South America}}. 278(1718). 2562–2567. doi: 10.1098/rspb.2010.2579. {Royal Society}.
+  > Walker, Robert S. & Lincoln A. Ribeiro. 2011. Bayesian Phylogeography of the Arawak Expansion in Lowland South America. 278(1718). 2562–2567. doi: 10.1098/rspb.2010.2579. Royal Society.
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
