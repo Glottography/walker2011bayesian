@@ -1,0 +1,32 @@
+ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Feature_IDs,Glottolog_Languoid_Level,Family,Speaker_Area
+acha1250,Achagua,,4.38649,-72.2005,acha1250,,1,language,Arawakan,languages
+apur1254,Apurinã,,-8.21692,-66.7714,apur1254,,3,language,Arawakan,languages
+araw1276,Lokono,,5.64295,-56.9243,araw1276,,13,language,Arawakan,languages
+asha1243,Asháninka,,-11.9311,-73.9073,asha1243,,4,language,Arawakan,languages
+bani1255,Baniwa do Icana,,2.17859,-67.7704,bani1255,,6,language,Arawakan,languages
+cabi1241,Cabiyarí,,0.16101,-71.0622,cabi1241,,7,language,Arawakan,languages
+cham1318,Chamicuro,,-5.1149,-75.6778,cham1318,,8,language,Arawakan,languages
+curr1243,Curripaco,,0.69618,-67.5028,curr1243,,9,language,Arawakan,languages
+guar1293,Baniva de Maroa,,1.80835,-66.922505,guar1293,,10,language,Arawakan,languages
+igna1246,Ignaciano,,-15.1188,-65.3993,igna1246,,11,language,Arawakan,languages
+inap1242,Iñapari,,-12.46525,-69.30827,inap1242,,12,language,Arawakan,languages
+mach1267,Machiguenga,,-12.1291,-72.5017,mach1267,,14,language,Arawakan,languages
+mand1448,Mandahuaca,,1.48,-66.52,mand1448,,15,language,Arawakan,languages
+mapi1252,Mapidian-Mawayana,,1.190187,-58.585983,mapi1252,,16,language,Arawakan,languages
+mehi1240,Mehináku,,-12.5364,-53.521,mehi1240,,17,language,Arawakan,languages
+noma1263,Nomatsiguenga,,-11.5349,-74.4371,noma1263,,18,language,Arawakan,languages
+pali1279,Palikúr,,3.63993,-51.6246,pali1279,,19,language,Arawakan,languages
+para1316,Paraujano,,10.8427,-71.8399,para1316,,5,language,Arawakan,languages
+pare1272,Parecís,,-14.5929,-57.4059,pare1272,,20,language,Arawakan,languages
+piap1246,Piapoco,,4.37718,-68.5953,piap1246,,21,language,Arawakan,languages
+resi1247,Resígaro,,-1.169535,-71.60524,resi1247,,23,language,Arawakan,languages
+tari1256,Tariana,,0.440205,-68.9042,tari1256,,24,language,Arawakan,languages
+tere1279,Terena-Kinikinao-Chane,,-20.6614,-56.0329,tere1279,,25,language,Arawakan,languages
+trin1274,Trinitario-Javeriano-Loretano,,-15.3331,-65.4096,trin1274,,26,language,Arawakan,languages
+wapi1253,Wapishana,,2.58744,-59.8021,wapi1253,,27,language,Arawakan,languages
+waur1244,Waurá,,-13.296,-53.6971,waur1244,,28,language,Arawakan,languages
+wayu1243,Wayuu,,11.395566,-72.199791,wayu1243,,29,language,Arawakan,languages
+yane1238,Yanesha',,-10.5454,-75.315,yane1238,,2,language,Arawakan,languages
+yine1238,Yine,,-11.1086,-73.3087,yine1238,,22,language,Arawakan,languages
+yucu1253,Yucuna,,-0.76075,-71.0033,yucu1253,,30,language,Arawakan,languages
+araw1281,Arawakan,,,,araw1281,,1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30,family,,families

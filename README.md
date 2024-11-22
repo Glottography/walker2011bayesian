@@ -12,6 +12,8 @@ If you use these data please cite
 ## Description
 
 
+This dataset provides contemporary, non-overlapping speaker areas for Arawakan languages derived from figure S1 in the supplementary material for Walker & Ribeiro 2011. Languages for which only point locations are given in the source are omitted.
+
 This dataset is licensed under a CC-BY-4.0 license
 
 
@@ -20,7 +22,7 @@ This dataset is licensed under a CC-BY-4.0 license
 ### Coverage
 
 ```geojson
-{"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[-75.9, -22.3], [-75.9, 12.5], [-50.1, 12.5], [-50.1, -22.3], [-75.9, -22.3]]]}}
+{"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[-75.9, -22.3], [-75.9, 12.5], [-50.1, 12.5], [-50.1, -22.3], [-75.9, -22.3]]]}, "properties": {}}
 ```
 
 

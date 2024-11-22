@@ -1,0 +1,8 @@
+{
+    "id": "walker2011bayesian",
+    "title": "Glottography dataset derived from Walker and Ribeiro 2011 \"Bayesian Phylogeography of the Arawak Expansion in Lowland South America\"",
+    "description": "This dataset provides contemporary, non-overlapping speaker areas for Arawakan languages derived from figure S1 in the supplementary material for Walker & Ribeiro 2011. Languages for which only point locations are given in the source are omitted.",
+    "license": "CC-BY-4.0",
+    "url": null,
+    "citation": "Walker, Robert S. & Lincoln A. Ribeiro. 2011. Bayesian Phylogeography of the Arawak Expansion in Lowland South America. 278(1718). 2562\u20132567. doi: 10.1098/rspb.2010.2579. Royal Society."
+}
