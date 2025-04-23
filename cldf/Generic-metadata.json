@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/Glottography/walker2011bayesian",
             "rdf:type": "prov:Entity",
-            "dc:created": "bec35d8",
+            "dc:created": "5aa501b",
             "dc:title": "Repository"
         },
         {
@@ -260,6 +260,15 @@
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#glottocode",
                         "valueUrl": "http://glottolog.org/resource/languoid/id/{Glottocode}",
                         "name": "Glottocode"
+                    },
+                    {
+                        "dc:description": "The time period to which the feature relates, specified as year AD or with the keyword 'traditional', meaning either the time of contact with European maritime powers or period when an ancient language was spoken.",
+                        "datatype": {
+                            "base": "string",
+                            "format": "[0-9]{3,4}|traditional"
+                        },
+                        "propertyUrl": "http://purl.org/dc/terms/temporal",
+                        "name": "Year"
                     },
                     {
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
