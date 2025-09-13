@@ -17,13 +17,13 @@
         {
             "rdf:about": "https://github.com/Glottography/walker2011bayesian",
             "rdf:type": "prov:Entity",
-            "dc:created": "5aa501b",
+            "dc:created": "5494b6f",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v5.1",
+            "dc:created": "v5.2",
             "dc:title": "Glottolog"
         }
     ],

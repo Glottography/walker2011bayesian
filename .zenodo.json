@@ -14,5 +14,10 @@
     "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Walker, Robert S. &amp; Lincoln A. Ribeiro. 2011. Bayesian Phylogeography of the Arawak Expansion in Lowland South America. 278(1718). 2562\u20132567. doi: 10.1098/rspb.2010.2579. Royal Society.</p>\n</blockquote>",
     "license": {
         "id": "CC-BY-4.0"
-    }
+    },
+    "communities": [
+        {
+            "identifier": "glottography"
+        }
+    ]
 }

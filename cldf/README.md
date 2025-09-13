@@ -15,7 +15,7 @@ property | value
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
 [dc:spatial](http://purl.org/dc/terms/spatial) | westlimit=-75.9; southlimit=-22.3; eastlimit=-50.1; northlimit=12.5
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/Glottography/walker2011bayesian
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/Glottography/walker2011bayesian/tree/bec35d8">Glottography/walker2011bayesian bec35d8</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.1">Glottolog v5.1</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/Glottography/walker2011bayesian/tree/5494b6f">Glottography/walker2011bayesian 5494b6f</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.2">Glottolog v5.2</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>python</strong>: 3.12.3</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | walker2011bayesian
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
@@ -84,6 +84,7 @@ Name/Property | Datatype | Description
 [Contributor](http://cldf.clld.org/v1.0/terms.rdf#contributor) | `string` | 
 [Citation](http://cldf.clld.org/v1.0/terms.rdf#citation) | `string` | 
 [Glottocode](http://cldf.clld.org/v1.0/terms.rdf#glottocode) | `string`<br>Regex: `[a-z0-9]{4}[1-9][0-9]{3}` | References a Glottolog languoid most closely matching the linguistic entity described by the feature.
+[Year](http://purl.org/dc/terms/temporal) | `string`<br>Regex: `[0-9]{3,4}|traditional` | The time period to which the feature relates, specified as year AD or with the keyword 'traditional', meaning either the time of contact with European maritime powers or period when an ancient language was spoken.
 [Source](http://cldf.clld.org/v1.0/terms.rdf#source) | list of `string` (separated by `;`) | References [sources.bib::BibTeX-key](./sources.bib)
 [Media_ID](http://cldf.clld.org/v1.0/terms.rdf#mediaReference) | `string` | Features are linked to GeoJSON files that store the geo data.<br>References [media.csv::ID](#table-mediacsv)
 `Map_Name` | `string` | Name of the map as given in the source publication.
