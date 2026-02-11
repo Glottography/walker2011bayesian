@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/Glottography/walker2011bayesian",
             "rdf:type": "prov:Entity",
-            "dc:created": "b6f5712",
+            "dc:created": "v1.0",
             "dc:title": "Repository"
         },
         {
