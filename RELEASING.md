@@ -64,3 +64,14 @@ cldfbench geojson.glottolog_distance cldf --format pipe
 | yane1238 | 0.00 | True | 1 |
 | yine1238 | 0.00 | True | 1 |
 | yucu1253 | 0.00 | True | 3 |
+
+
+## Release
+
+Commit and push all changes.
+
+Run
+```
+cldfbench glottography.release cldfbench_walker2011bayesian.py vX.Y
+```
+and follow the instructions given in the output of the command.
